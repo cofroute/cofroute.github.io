@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-21T13:26:47.969Z</updated>
+  <updated>2022-10-21T13:29:13.059Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post</title>
+    <link href="http://example.com/2022/10/21/pipixia-test/"/>
+    <id>http://example.com/2022/10/21/pipixia-test/</id>
+    <published>2022-10-21T13:29:13.000Z</published>
+    <updated>2022-10-21T13:29:13.059Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>article</title>
