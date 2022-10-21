@@ -3,6 +3,7 @@ http://example.com/2022/10/13/My-New-Post/
 http://example.com/2022/10/13/hello-world/
 http://example.com/2022/10/19/20221019/
 http://example.com/2022/10/13/01/
+http://example.com/2022/10/14/03/
 http://example.com/2022/10/13/02/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
