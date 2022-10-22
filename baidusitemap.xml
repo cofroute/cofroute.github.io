@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/10/21/pipixia-test/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <loc>http://example.com/2022/10/22/%E4%BB%8A%E5%A4%A9%E5%91%A8%E5%85%AD-%E8%81%8A%E4%B8%80%E8%81%8A%E5%A4%A7%E7%9B%98/</loc>
+    <lastmod>2022-10-22</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/10/21/article-1/</loc>
-    <lastmod>2022-10-21</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/21/article/</loc>
-    <lastmod>2022-10-21</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/21/echo/</loc>
-    <lastmod>2022-10-21</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/20/20221021/</loc>
-    <lastmod>2022-10-21</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/13/My-New-Post/</loc>
-    <lastmod>2022-10-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/13/hello-world/</loc>
-    <lastmod>2022-10-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/10/19/20221019/</loc>
-    <lastmod>2022-10-19</lastmod>
+    <loc>http://example.com/2022/10/22/%E5%87%86%E5%A4%87%E4%B9%B0%E5%85%A5%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2022-10-22</lastmod>
   </url>
 </urlset> 
